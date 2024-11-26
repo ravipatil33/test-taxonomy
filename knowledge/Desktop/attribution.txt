@@ -1,0 +1,5 @@
+Title of work: Red Hat Enterprise Linux AI1.2 Getting Started
+Link to work: https://docs.redhat.com/en/documentation/red_hat_enterprise_linux_ai/1.2/pdf/getting_started/Red_Hat_Enterprise_Linux_AI-1.2-Getting_Started-en-US.pdf
+Revision: 1.2
+License of the work: Apache-2
+Creator names: Red Hat Pvt Ltd. 
